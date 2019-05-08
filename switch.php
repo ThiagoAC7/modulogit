@@ -1,5 +1,5 @@
 <?php
-
+// APRENDENDO SWITCH
 	$x = 0;
 
 	switch ($x) {

@@ -1,4 +1,5 @@
 <?php
+
 	$x = 0;
 
 	switch ($x) {
@@ -15,4 +16,5 @@
 			echo "o x nao tem valor";
 			break;
 	}
+	
 ?>
